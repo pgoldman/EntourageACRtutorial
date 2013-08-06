@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Video.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Acr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MetadataMusic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Epg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/video_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Dsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Manager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MetadataVideo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Link.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/musicid_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MetadataACR.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lookup_fplocal_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/StorageSqlite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Manager_Android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MusicID.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/acr_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/MetadataEPG.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/manager_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/dsp_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/link_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/storage_sqlite_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/epg_jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Utility_Android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/FpCache.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Metadata.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

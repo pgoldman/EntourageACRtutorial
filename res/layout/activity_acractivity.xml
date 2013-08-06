@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/statusField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="false"
+        android:layout_marginTop="17dp"
+        android:text="Operation Status"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+
+    <TextView
+        android:id="@+id/matchResultField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/statusField"
+        android:layout_below="@+id/statusField"
+        android:layout_marginTop="118dp"
+        android:text="Match Result"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <Button
+            android:id="@+id/idButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/matchResultField"
+            android:layout_marginTop="280dp"
+            android:text="Start ID" />
+
+</RelativeLayout>
