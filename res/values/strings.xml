@@ -4,8 +4,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_acractivity">ACRactivity</string>
-    <string name="client_id">12482816</string>
-    <string name="client_tag">4DAD49D64302E373B2381B3BDDF62F10</string>
+    <string name="client_id">Your Client ID here</string>
+    <string name="client_tag">Your Client Tag here</string>
     <string name="license_text">-- BEGIN LICENSE v1.0 B0EDB2FD --\r\nlicensee: Gracenote, Inc.\r\nname: Doug Mccoy\r\nstart_date: 2012-10-29\r\n\r\nclient_id: 14487808\r\nstart_date: 2012-11-01\r\nmusicid_file: enabled\r\nmusicid_search: enabled\r\nmusicid_stream: enabled\r\nmusicid: enabled\r\nvideoid: enabled\r\nvideoid_explore: enabled\r\nacr: enabled\r\nepg: enabled\r\n\r\nclient_id: 12482816\r\nstart_date: 2012-11-01\r\nmusicid_file: enabled\r\nmusicid_search: enabled\r\nmusicid_stream: enabled\r\nmusicid: enabled\r\nvideoid: enabled\r\nvideoid_explore: enabled\r\nacr: enabled\r\nepg: enabled\r\n\r\n-- SIGNATURE B0EDB2FD --\r\nlAADAgAfAZrRfhgra4KBq5Uv8BGXA2KAR911/T+LYfbbCxe/IgAfAUcatkY0SqjVKgZojNKkF9wqt3nyOsBRsAp2R29uAg==\r\n-- END LICENSE B0EDB2FD --\r\n</string>
 
 </resources>
